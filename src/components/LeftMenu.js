@@ -1,6 +1,5 @@
 import React from "react";
 import "../styles/LeftMenu.css";
-import axios from 'axios';
 import { FaSpotify, FaEllipsis } from "react-icons/fa6";
 import { FaSearchengin } from "react-icons/fa6";
 import {MenuList} from "./MenuList";
