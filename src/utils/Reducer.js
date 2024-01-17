@@ -1,6 +1,6 @@
 import { reducerCases } from "./Constants";
 
-export const initialState= {
+const initialState= {
     token: null,
     playlists: [],
     userInfo : null,
@@ -39,4 +39,4 @@ const reducer = (state, action) => {
     }
 };
 
-export {reducer};
+export {reducer, initialState};

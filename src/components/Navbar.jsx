@@ -15,7 +15,7 @@ export default function Navbar() {
         <input type = "text" placeholder='Artists, songs, podcast' />
     </div>
     <div className='profile'>
-        <a href='#'>
+        <a href='/'>
             <CgProfile />
             <span>{userInfo?.userName} </span>
         </a>
