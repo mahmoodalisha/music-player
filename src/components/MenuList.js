@@ -1,5 +1,5 @@
 import { BsFillHouseFill, BsJournalAlbum} from "react-icons/bs";
-import { FaBroadcastTower,FaMicrophoneAlt, FaPodcast } from "react-icons/fa";
+import { FaBroadcastTower, FaPodcast } from "react-icons/fa";
 import { BiPulse } from "react-icons/bi";
 
 const MenuList = [
